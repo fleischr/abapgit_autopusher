@@ -16,7 +16,8 @@ Requirements:
 ## Understanding how the abapGit autoPusher was built using Claude Code
 
 ### Step 0 : Git init and The baseline claude.md settings
-Depending on your release level (whether older or newer) you can direct Claude to have a certain kind of ABAP Development style. For this repo - Claude was instructed to use syntax compatible with netweaver 7.5 (which should be representative of a mix of oldish and newish ABAP coding styles deployed today)
+Depending on your release level (whether older or newer) you can direct Claude to have a certain kind of ABAP Development style. For this repo - Claude was instructed to use syntax compatible with netweaver 7.5 (which should be representative of a mix of oldish and newish ABAP coding styles deployed today). See the [./CLAUDE.md](CLAUDE.md) file.
+
 ### Step 1 : Drafting a basic plan
 ### Step 2 : Refining an improved plan with plan mode
 ### Step 3 : Your agent builds the report
